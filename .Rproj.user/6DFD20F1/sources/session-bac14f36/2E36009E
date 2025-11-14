@@ -1,12 +1,12 @@
 {
-    "id": "ABAFC9A1",
-    "path": "~/Documents/Course/25Fall/PM566/Web Test/announcement.qmd",
-    "project_path": "announcement.qmd",
+    "id": "2E36009E",
+    "path": "~/Documents/Course/25Fall/PM566/Web Test/somethingboring.qmd",
+    "project_path": "somethingboring.qmd",
     "type": "quarto_markdown",
-    "hash": "1428941059",
+    "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1763161341178.0,
+    "created": 1763163381784.0,
     "source_on_save": false,
     "relative_order": 6,
     "properties": {
@@ -19,14 +19,14 @@
         "rmdVisualCollapsedChunks": "",
         "cursorPosition": "0,0",
         "scrollLine": "0",
-        "rmdVisualModeLocation": "95:0"
+        "rmdVisualModeLocation": "106:152"
     },
     "folds": "",
-    "lastKnownWriteTime": 1763161657,
+    "lastKnownWriteTime": 1763163385,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1763161657866,
+    "last_content_update": 1763163385073,
     "read_only": false,
     "read_only_alternatives": []
 }
