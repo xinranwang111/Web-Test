@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - images/**
+
+website:
+  title: "demoSite"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home <i class="bi bi-github"></i>
+      - href: about.qmd 
+        text: About
+      - text: Pages
+        menu:
+          - href: somethingfun.qmd
+            text: somethingfun  <i class="bi bi-emoji-surprise"></i>
+          - href: somethingboring.qmd
+            text: somethingboring <i class="bi bi-emoji-frown-fill"></i>
+  page-footer: 
+    left:
+      University of Southern California <br>
+      Department of Population and Public Health Sciences
+    right:
+      LICENSE <br>
+      View the [source at GitHub](https://github.com/USCbiostats/PM566).
+format:
+  html:
+    theme: 
+      light: cosmo
+      dark: darkly
+    css: styles.css
+    toc: true
+
+editor: visual
+

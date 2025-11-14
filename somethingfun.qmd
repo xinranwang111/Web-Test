@@ -1,0 +1,7 @@
+---
+title: "Something Fun"
+---
+
+::: centered-text
+![Why you clicking](images/catfun.png){width="300"}
+:::

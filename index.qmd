@@ -1,0 +1,9 @@
+---
+title: "Home Page"
+---
+
+I share random pics.
+
+<div class="centered-text">
+![HOOOAAAH](images/cat.png){width="300"}
+</div>

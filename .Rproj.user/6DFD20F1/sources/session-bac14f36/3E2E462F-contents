@@ -1,0 +1,32 @@
+/* css styles */
+
+.centered-text {
+  text-align: center;
+}
+
+/* Center the whole tools area (toggle + search) vertically in the navbar */
+.navbar .quarto-navbar-tools {
+  display: flex;
+  align-items: center;
+}
+
+/* Make the toggle itself a small vertical stack: icon on top, label below */
+.navbar .quarto-color-scheme-toggle {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  line-height: 1;
+  padding-top: 0;
+  padding-bottom: 0;
+  text-decoration: none;     /* remove underline from link */
+}
+
+/* Label under the icon */
+.navbar .quarto-color-scheme-toggle::after {
+  content: "Light/Dark";
+  display: block;
+  font-size: 0.75rem;
+  margin-top: 2px;           /* space between icon and text */
+  text-decoration: none;
+}

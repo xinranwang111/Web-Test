@@ -1,0 +1,8 @@
+/* css styles */
+
+/* Add text label next to the light/dark toggle button */
+button.quarto-color-scheme-toggle::after {
+  content: " Theme";   Dark Mode 
+  font-size: 0.9rem;
+  margin-left: 0.25rem;
+}
