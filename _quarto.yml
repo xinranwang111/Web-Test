@@ -12,6 +12,8 @@ website:
         text: Home <i class="bi bi-github"></i>
       - href: about.qmd 
         text: About
+      - href: announcement.qmd 
+        text: Announcement
       - text: Pages
         menu:
           - href: somethingfun.qmd

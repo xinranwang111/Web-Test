@@ -7,11 +7,11 @@
     "text": "Why you clicking"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "somethingfun.html",
+    "href": "somethingfun.html",
+    "title": "Something Fun",
     "section": "",
-    "text": "The author regrets to inform you that she has done no work here whatsoever."
+    "text": "hehe"
   },
   {
     "objectID": "index.html",
@@ -21,10 +21,17 @@
     "text": "I share random pics.\n\n\n\n\nHOOOAAAH"
   },
   {
-    "objectID": "somethingfun.html",
-    "href": "somethingfun.html",
-    "title": "Something Fun",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "hehe"
+    "text": "The author regrets to inform you that she has done no work here whatsoever."
+  },
+  {
+    "objectID": "announcement.html",
+    "href": "announcement.html",
+    "title": "Announcement",
+    "section": "",
+    "text": "Stranger, the details are irrelevant. Just remember. Whatever it is"
   }
 ]
